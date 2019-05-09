@@ -5,13 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "cwise": "~0.4.0",
-    "isndarray": "~0.1.0"
+    "isndarray": "~0.1.0",
+    "zeros": "~0.0.0"
   },
   "devDependencies": {
     "get-pixels": "~1.0.1",
     "ndarray-canvas": "~0.0.0",
     "ndarray-fill": "~0.1.0",
-    "zeros": "~0.0.0",
     "beefy": "~0.4.1",
     "browserify": "~2.29.1"
   },
